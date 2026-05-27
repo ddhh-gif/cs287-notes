@@ -1,0 +1,10 @@
+# Obsidian
+.obsidian/workspace.json
+.trash/
+
+# Extracted/derived content
+_extracted/
+
+# OS
+.DS_Store
+Thumbs.db
